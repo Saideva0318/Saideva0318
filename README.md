@@ -197,6 +197,56 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 ---
 
+## 💼 Portfolio Projects
+
+### 1. [Real Estate Analytics Pipeline](https://github.com/Saideva0318/real-estate-analytics-pipeline)
+**End-to-end ETL data pipeline** for property portfolio analysis
+`Python` `AWS Glue` `S3` `Redshift` `Airflow` `Pandas`
+
+• Automated ETL workflow processing 50K+ property records
+• Built dimensional data warehouse with Redshift
+• Reduced manual reporting time by 85%
+
+---
+
+### 2. [Property Market Streaming](https://github.com/Saideva0318/property-market-streaming)
+**Real-time streaming pipeline** with Kafka and Spark  
+`Apache Kafka` `Spark Streaming` `AWS Kinesis` `Python` `Scala`
+
+• Processes 10K+ property updates/second  
+• Real-time market trend analysis with <5s latency  
+• Identifies undervalued investment opportunities  
+
+---
+
+### 3. [Property Data Warehouse](https://github.com/Saideva0318/property-data-warehouse)
+**Cloud data warehouse** with Snowflake and dbt  
+`Snowflake` `dbt` `SQL` `AWS S3` `Dimensional Modeling`
+
+• Enterprise-grade ELT with 4-layer architecture  
+• dbt models for automated transformations  
+• Query performance: <5 seconds at P95  
+
+---
+
+### 4. [Automated Financial Reporting](https://github.com/Saideva0318/automated-financial-reporting)
+**Python ETL system** with Power BI integration  
+`Python` `PostgreSQL` `Airflow` `Power BI` `REST APIs`
+
+• Automated monthly financial reports  
+• Integrates 4+ data sources (Buildium, QuickBooks, Banks)  
+• 95% reduction in manual reporting effort  
+
+---
+
+### 5. [Property Data API](https://github.com/Saideva0318/property-data-api)
+**RESTful API service** with FastAPI and Redis  
+`FastAPI` `PostgreSQL` `Redis` `JWT` `Docker` `AWS ECS`
+
+• Production-ready API with 5K requests/second  
+• JWT authentication and rate limiting  
+• Auto-generated OpenAPI documentation
+
 <div align="center">
 
 ### 💬 Let's Connect!
