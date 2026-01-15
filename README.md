@@ -190,8 +190,8 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 - 📦 **Data Analyst** @ Laksan Technologies (1+ years) - Built Power BI dashboards, SQL analytics
 - 🧪 **Business Analyst** @ Johnson & Johnson - Public health analytics project
-- 🏗️ **Property Portfolio Manager** - Managing 10+ properties across 3 states
-- 🎓 **Education:** UT Dallas (Diploma in progress), F1 STEM OPT candidate
+- 🏗️ **Property Portfolio Manager** - Managing 40+ properties across 3 states
+- 🎓 **Education:** UT Dallas (Masters in Information Technology and Management)
 
 <br/>
 
