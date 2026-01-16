@@ -6,6 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Engineer+%7C+Pipeline+Architect;Building+End-to-End+Data+Solutions;Real+Estate+Analytics+%7C+Cloud+%7C+Big+Data" alt="Typing SVG" /></a>
 
+
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" />
