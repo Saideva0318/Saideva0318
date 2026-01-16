@@ -9,7 +9,7 @@
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-Real%20Estate-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Health%20Care,Real%20Estate-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-NYC%20Metro-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
 </p>
