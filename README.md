@@ -12,6 +12,23 @@
   <img src="https://img.shields.io/badge/Domain-Health%20Care,Real%20Estate-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-NYC%20Metro-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
+
+  <div align="center">
+
+## 💼 **ACTIVELY SEEKING DATA ENGINEER ROLES**
+
+### NYC Metro Area | Open to Hybrid & Remote Opportunities
+
+[![Available](https://img.shields.io/badge/Status-Available%20Now-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
+[![Start Date](https://img.shields.io/badge/Start%20Date-Immediate-blue?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
+[![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
+
+**Specialization:** Production ETL Pipelines | Cloud Data Warehousing | Real-time Streaming  
+**Preferred Stack:** Spark, Kafka, Airflow, AWS/Azure, Snowflake, Python
+
+</div>
+
+---
 </p>
 
 <!-- Social Links with Icons -->
@@ -87,6 +104,29 @@ Data Engineer passionate about building **scalable data pipelines** that turn co
 <br/>
 
 ## 🏗️ Featured Projects
+
+### 🚀 [End-to-End Data Pipeline](https://github.com/Saideva0318/end-to-end-data-pipeline) ⭐ **FLAGSHIP PROJECT**
+
+![Advanced](https://img.shields.io/badge/Complexity-Advanced-red)
+![Production](https://img.shields.io/badge/Status-Production-brightgreen)
+![Data Volume](https://img.shields.io/badge/Data-10TB%2B%2Fday-blue)
+
+**Enterprise-scale production data pipeline** with unified **batch & streaming** architecture. Processes **1M+ messages/second** with **sub-second latency**. Complete data engineering solution from ingestion to visualization.
+
+**Tech:** `Kafka` `Spark` `Airflow` `AWS S3/HDFS` `Tableau` `Python` `Docker` `Terraform`
+
+**Architecture Highlights:**
+- ⚡ Real-time streaming with Kafka + Spark Structured Streaming
+- 📊 Batch processing: 10TB+ daily throughput
+- 🏛️ Medallion architecture: Bronze/Silver/Gold data layers
+- 🛡️ 99.9% uptime SLA with fault-tolerant design
+- 📈 End-to-end observability with Grafana dashboards
+
+**Business Impact:** Handles enterprise workloads, demonstrates production-grade data engineering skills with modern cloud-native stack.
+
+[View Repository →](https://github.com/Saideva0318/end-to-end-data-pipeline)
+
+---
 
 <div align="center">
 
@@ -179,8 +219,7 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 ## 💡 What I'm Working On
 
-🔭 Currently building: **Streaming data pipeline with Kafka + Flink**  
-📚 Learning: **Databricks, Delta Lake, Data Mesh architecture**  
+🔭 Currently building: **[End-to-End Data Pipeline](https://github.com/Saideva0318/end-to-end-data-pipeline)** - Enterprise-scale batch & streaming pipeline with Kafka + Spark📚 Learning: **Databricks, Delta Lake, Data Mesh architecture**  
 🤝 Looking to collaborate on: **Open source data engineering tools**  
 💬 Ask me about: **Real estate data, Airflow, Snowflake, AWS data pipelines**
 
