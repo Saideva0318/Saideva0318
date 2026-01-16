@@ -41,7 +41,7 @@
 Data Engineer passionate about building **scalable data pipelines** that turn complex property data into actionable business intelligence. With hands-on experience managing a **multi-state real estate portfolio** (NJ, AR, TX), I combine **domain expertise** with modern **cloud-native tools** to solve real-world problems.
 
 📈 **Background:** Business Analyst → Data Engineer  
-🏢 **Domain Expertise:** Property Management, Real Estate Analytics, Financial Reporting  
+🏢 **Domain Expertise:** Health Care Management, Property Management, Real Estate Analytics, Financial Reporting  
 🚀 **Current Focus:** Building production ETL pipelines, cloud data warehousing, streaming architectures
 
 <br/>
