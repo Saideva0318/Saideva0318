@@ -251,7 +251,7 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 ### 💬 Let's Connect!
 
-**Currently seeking full-time Data Engineer roles in NYC Metro Area | Open to remote opportunities**
+**Currently seeking full-time Data Engineer roles in NYC Metro Area | Open to Hybrid, remote opportunities**
 
 <a href="https://www.linkedin.com/in/sai-deva-puttur/" target="_blank">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
