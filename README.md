@@ -21,7 +21,7 @@
 
 [![Available](https://img.shields.io/badge/Status-Available%20Now-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
 [![Start Date](https://img.shields.io/badge/Start%20Date-Immediate-blue?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
-[![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
+[![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
 
 **Specialization:** Production ETL Pipelines | Cloud Data Warehousing | Real-time Streaming  
 **Preferred Stack:** Spark, Kafka, Airflow, AWS/Azure, Snowflake, Python
