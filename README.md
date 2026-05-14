@@ -9,15 +9,15 @@
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-Health%20Care,Real%20Estate-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-NYC%20Metro-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Health%20Care%2C%20Real%20Estate-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Edison%2C%20NJ-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
 
   <div align="center">
 
 ## 💼 **ACTIVELY SEEKING DATA ENGINEER ROLES**
 
-### NYC Metro Area | Open to Hybrid & Remote Opportunities
+### NYC Metro Area | Edison, NJ | Open to Hybrid & Remote Opportunities
 
 [![Available](https://img.shields.io/badge/Status-Available%20Now-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
 [![Start Date](https://img.shields.io/badge/Start%20Date-Immediate-blue?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/saideva-puttur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:saideva0318@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Saideva0318" target="_blank">
@@ -57,9 +57,10 @@
 
 Data Engineer passionate about building **scalable data pipelines** that turn complex property data into actionable business intelligence. With hands-on experience managing a **multi-state real estate portfolio** (NJ, AR, TX), I combine **domain expertise** with modern **cloud-native tools** to solve real-world problems.
 
-📈 **Background:** Business Analyst → Data Engineer  
+📈 **Background:** Business Analyst → Data Analyst → Data Engineer  
 🏢 **Domain Expertise:** Health Care Management, Property Management, Real Estate Analytics, Financial Reporting  
-🚀 **Current Focus:** Building production ETL pipelines, cloud data warehousing, streaming architectures
+🚀 **Current Focus:** Building production ETL pipelines, cloud data warehousing, streaming architectures, and AI/ML-augmented data workflows  
+📍 **Location:** Edison, NJ — available for NYC Metro hybrid or fully remote roles
 
 <br/>
 
@@ -77,6 +78,8 @@ Data Engineer passionate about building **scalable data pipelines** that turn co
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -93,11 +96,17 @@ Data Engineer passionate about building **scalable data pipelines** that turn co
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+### AI / ML & Emerging
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -219,18 +228,20 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 ## 💡 What I'm Working On
 
-🔭 Currently building: **[End-to-End Data Pipeline](https://github.com/Saideva0318/end-to-end-data-pipeline)** - Enterprise-scale batch & streaming pipeline with Kafka + Spark📚 Learning: **Databricks, Delta Lake, Data Mesh architecture**  
-🤝 Looking to collaborate on: **Open source data engineering tools**  
-💬 Ask me about: **Real estate data, Airflow, Snowflake, AWS data pipelines**
+🔭 **Building:** [End-to-End Data Pipeline](https://github.com/Saideva0318/end-to-end-data-pipeline) — Enterprise-scale batch & streaming with Kafka + Spark  
+📚 **Learning:** Databricks, Delta Lake, Data Mesh architecture, LLM-augmented pipelines, AI/ML Engineering  
+🤝 **Open to:** Collaborating on open-source data engineering tools and real-estate analytics projects  
+💬 **Ask me about:** Real estate data automation, Airflow orchestration, Snowflake data modeling, AWS data pipelines  
+🌐 **2025–2026 Focus:** Integrating LLM/AI tooling into traditional data pipelines (LangChain, OpenAI API, vector databases)
 
 <br/>
 
 ## 🎯 Experience Highlights
 
-- 📦 **Data Analyst** @ Laksan Technologies (1+ years) - Built Power BI dashboards, SQL analytics
-- 🧪 **Business Analyst** @ Johnson & Johnson - Public health analytics project
-- 🏗️ **Property Portfolio Manager** - Managing 40+ properties across 3 states
-- 🎓 **Education:** UT Dallas (Masters in Information Technology and Management)
+- 📦 **Data Analyst** @ Laksan Technologies (1+ years) — Built Power BI dashboards, SQL analytics pipelines
+- 🧪 **Business Analyst** @ Johnson & Johnson — Public health analytics, data integration and reporting
+- 🏗️ **Property Portfolio Manager** — Managing 40+ properties across NJ, TX, and AR with custom analytics dashboards
+- 🎓 **Education:** UT Dallas — M.S. in Information Technology and Management
 
 <br/>
 
@@ -239,11 +250,11 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 ## 💼 Portfolio Projects
 
 ### 1. [Real Estate Analytics Pipeline](https://github.com/Saideva0318/real-estate-analytics-pipeline)
-**End-to-end ETL data pipeline** for property portfolio analysis
+**End-to-end ETL data pipeline** for property portfolio analysis  
 `Python` `AWS Glue` `S3` `Redshift` `Airflow` `Pandas`
 
-• Automated ETL workflow processing 50K+ property records
-• Built dimensional data warehouse with Redshift
+• Automated ETL workflow processing 50K+ property records  
+• Built dimensional data warehouse with Redshift  
 • Reduced manual reporting time by 85%
 
 ---
@@ -254,7 +265,7 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 • Processes 10K+ property updates/second  
 • Real-time market trend analysis with <5s latency  
-• Identifies undervalued investment opportunities  
+• Identifies undervalued investment opportunities
 
 ---
 
@@ -264,7 +275,7 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 • Enterprise-grade ELT with 4-layer architecture  
 • dbt models for automated transformations  
-• Query performance: <5 seconds at P95  
+• Query performance: <5 seconds at P95
 
 ---
 
@@ -272,9 +283,9 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 **Python ETL system** with Power BI integration  
 `Python` `PostgreSQL` `Airflow` `Power BI` `REST APIs`
 
-• Automated monthly financial reports  
+• Automated monthly financial reports for 40+ properties  
 • Integrates 4+ data sources (Buildium, QuickBooks, Banks)  
-• 95% reduction in manual reporting effort  
+• 95% reduction in manual reporting effort
 
 ---
 
@@ -290,7 +301,7 @@ Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, 
 
 ### 💬 Let's Connect!
 
-**Currently seeking full-time Data Engineer roles in NYC Metro Area | Open to Hybrid, remote opportunities**
+**Currently seeking full-time Data Engineer roles · Edison, NJ · NYC Metro Area | Open to Hybrid & Remote**
 
 <a href="https://www.linkedin.com/in/sai-deva-puttur/" target="_blank">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
