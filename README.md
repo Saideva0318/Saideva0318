@@ -18,7 +18,7 @@
 ### NYC Metro Area | Edison, NJ | Open to Hybrid & Remote Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-deva-puttur/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saideva0318@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidevaputtur@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saideva0318)
 
 <img src="https://komarev.com/ghpvc/?username=Saideva0318&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
