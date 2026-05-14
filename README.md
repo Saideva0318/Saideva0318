@@ -12,306 +12,179 @@
   <img src="https://img.shields.io/badge/Domain-Health%20Care%2C%20Real%20Estate-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Edison%2C%20NJ-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
-
-  <div align="center">
+</p>
 
 ## 💼 **ACTIVELY SEEKING DATA ENGINEER ROLES**
-
 ### NYC Metro Area | Edison, NJ | Open to Hybrid & Remote Opportunities
 
-[![Available](https://img.shields.io/badge/Status-Available%20Now-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
-[![Start Date](https://img.shields.io/badge/Start%20Date-Immediate-blue?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
-[![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)](https://www.linkedin.com/in/sai-deva-puttur/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-deva-puttur/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saideva0318@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saideva0318)
 
-**Specialization:** Production ETL Pipelines | Cloud Data Warehousing | Real-time Streaming  
-**Preferred Stack:** Spark, Kafka, Airflow, AWS/Azure, Snowflake, Python
-
-</div>
-
----
-</p>
-
-<!-- Social Links with Icons -->
-<p>
-  <a href="https://www.linkedin.com/in/saideva-puttur" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:saideva0318@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Saideva0318" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Saideva0318&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<br/>
+</div>
 
 ---
-
-</div>
 
 ## 👋 About Me
 
 Data Engineer passionate about building **scalable data pipelines** that turn complex property data into actionable business intelligence. With hands-on experience managing a **multi-state real estate portfolio** (NJ, AR, TX), I combine **domain expertise** with modern **cloud-native tools** to solve real-world problems.
 
-📈 **Background:** Business Analyst → Data Analyst → Data Engineer  
-🏢 **Domain Expertise:** Health Care Management, Property Management, Real Estate Analytics, Financial Reporting  
-🚀 **Current Focus:** Building production ETL pipelines, cloud data warehousing, streaming architectures, and AI/ML-augmented data workflows  
-📍 **Location:** Edison, NJ — available for NYC Metro hybrid or fully remote roles
+- 🔭 **Currently:** Building production-grade ETL pipelines with Apache Spark, Kafka & Airflow
+- 🌱 **Learning:** LangChain, OpenAI API, Vector Databases, dbt, Databricks
+- 💼 **Background:** Business Analyst → Data Analyst → Data Engineer
+- 📍 **Location:** Edison, NJ | Open to Hybrid & Remote
+- 🎯 **2025-2026 Goal:** Integrate LLM/AI tooling into data engineering workflows
 
-<br/>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saideva0318&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Core Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Languages & Core
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Big Data & Streaming
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
-
-### Cloud Platforms
+### Cloud & Storage
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### Data Warehousing
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 ### AI / ML & Emerging
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🏗️ Featured Projects
-
-### 🚀 [End-to-End Data Pipeline](https://github.com/Saideva0318/end-to-end-data-pipeline) ⭐ **FLAGSHIP PROJECT**
-
-![Advanced](https://img.shields.io/badge/Complexity-Advanced-red)
-![Production](https://img.shields.io/badge/Status-Production-brightgreen)
-![Data Volume](https://img.shields.io/badge/Data-10TB%2B%2Fday-blue)
-
-**Enterprise-scale production data pipeline** with unified **batch & streaming** architecture. Processes **1M+ messages/second** with **sub-second latency**. Complete data engineering solution from ingestion to visualization.
-
-**Tech:** `Kafka` `Spark` `Airflow` `AWS S3/HDFS` `Tableau` `Python` `Docker` `Terraform`
-
-**Architecture Highlights:**
-- ⚡ Real-time streaming with Kafka + Spark Structured Streaming
-- 📊 Batch processing: 10TB+ daily throughput
-- 🏛️ Medallion architecture: Bronze/Silver/Gold data layers
-- 🛡️ 99.9% uptime SLA with fault-tolerant design
-- 📈 End-to-end observability with Grafana dashboards
-
-**Business Impact:** Handles enterprise workloads, demonstrates production-grade data engineering skills with modern cloud-native stack.
-
-[View Repository →](https://github.com/Saideva0318/end-to-end-data-pipeline)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
+## 🌱 Currently Learning
+
+| Skill | Progress | Level |
+|-------|----------|-------|
+| **Databricks & Delta Lake** | `████████░░` 80% | Intermediate |
+| **LangChain & OpenAI API** | `██████░░░░` 60% | Beginner-Intermediate |
+| **dbt (Data Build Tool)** | `███████░░░` 70% | Intermediate |
+| **Vector Databases (Pinecone/Weaviate)** | `████░░░░░░` 40% | Beginner |
+| **AWS Data Services (Glue, Redshift)** | `███████░░░` 70% | Intermediate |
+| **Power BI Advanced DAX** | `██████░░░░` 60% | Beginner-Intermediate |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 [End-to-End Data Pipeline](https://github.com/Saideva0318/end-to-end-data-pipeline)
+> Production-grade enterprise data pipeline integrating Apache Spark, Kafka & Airflow
+- **Stack:** Python, Apache Spark, Kafka, Airflow, AWS S3, PostgreSQL
+- **Highlights:** Real-time streaming ingestion, automated ETL orchestration, cloud-native deployment
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+### 📊 [Real-Time Spark Streaming Dashboard](https://github.com/Saideva0318/realtime-spark-streaming-dashboard)
+> Live analytics dashboard powered by Spark Structured Streaming
+- **Stack:** Apache Spark, Python, Power BI, AWS
+- **Highlights:** Sub-second latency, real-time KPI monitoring, property portfolio analytics
+- ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### 🏠 [Property Data API](https://github.com/Saideva0318/property-data-api)
+> RESTful API for multi-state real estate portfolio management (NJ, TX, AR)
+- **Stack:** FastAPI, Python, PostgreSQL, Docker
+- **Highlights:** Tenant tracking, rent collection automation, expense management endpoints
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+
+### 💰 [Automated Financial Reporting](https://github.com/Saideva0318/automated-financial-reporting)
+> Automated financial reporting system for property portfolio analytics
+- **Stack:** Python, SQL, Power BI, Excel
+- **Highlights:** Monthly P&L generation, cash flow dashboards, multi-property aggregation
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### 🏗️ [Property Data Warehouse](https://github.com/Saideva0318/property-data-warehouse)
+> Cloud data warehouse solution for real estate analytics
+- **Stack:** Snowflake, dbt, Python, Airflow
+- **Highlights:** Star schema design, automated dbt transformations, historical trend analysis
+- ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+---
+
+## 📈 GitHub Activity Graph
+
 <div align="center">
 
-<!-- Project Cards with Hover Effect -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Real Estate Portfolio Analytics Pipeline](https://github.com/Saideva0318/real-estate-analytics-pipeline)
-
-End-to-end automated pipeline ingesting property data from **Buildium API** into **AWS S3**, orchestrated with **Airflow**, modeled in **Snowflake** star schema, visualized in **Power BI**.
-
-**Tech:** `Python` `SQL` `Airflow` `AWS S3` `Snowflake` `Power BI`
-
-**Impact:** Reduced manual data entry from 8 hrs/week to zero, 15% NOI improvement
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Saideva0318/real-estate-analytics-pipeline)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [Property Market Data Streaming Pipeline](https://github.com/Saideva0318/property-market-streaming)
-
-Real-time streaming architecture processing **1000+ events/hour** from property APIs using **Kafka** and **Spark Structured Streaming**, storing in **PostgreSQL** for market trend analysis.
-
-**Tech:** `Python` `Kafka` `Spark` `PostgreSQL` `Docker`
-
-**Performance:** <5 sec end-to-end latency, 99.2% data quality
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Saideva0318/property-market-streaming)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 [Tenant & Lease Management ETL](https://github.com/Saideva0318/tenant-lease-etl)
-
-Production ETL with **DBT** transformations, **Airflow** orchestration, **Great Expectations** data quality. Implements dimensional modeling for tenant analytics in **BigQuery**.
-
-**Tech:** `Python` `DBT` `Airflow` `BigQuery` `Great Expectations`
-
-**Quality:** 99.5% accuracy with automated validation
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Saideva0318/tenant-lease-etl)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 [Property Maintenance Prediction System](https://github.com/Saideva0318/maintenance-prediction-pipeline)
-
-Batch ML pipeline on **Azure Data Factory** ingesting maintenance records and weather data, featuring automated predictions for proactive property management.
-
-**Tech:** `Python` `Azure ADF` `Azure Synapse` `scikit-learn`
-
-**Accuracy:** 78% prediction within 30-day window
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Saideva0318/maintenance-prediction-pipeline)
-
-</td>
-</tr>
-</table>
-
-### 🏢 [Multi-Source Real Estate Data Warehouse](https://github.com/Saideva0318/real-estate-data-warehouse)
-
-Cloud data warehouse built with **infrastructure-as-code** using **Terraform**, integrating 5+ data sources with **AWS Glue** ETL and **Redshift** dimensional modeling.
-
-**Tech:** `Python` `AWS Glue` `Redshift` `Terraform` `Docker`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Saideva0318/real-estate-data-warehouse)
+[![Sai Deva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saideva0318&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<br/>
+---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saideva0318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saideva0318&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saideva0318&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saideva0318&layout=compact&langs_count=8&theme=algolia"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saideva0318&theme=tokyonight" alt="GitHub Streak" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saideva0318&theme=algolia)](https://git.io/streak-stats)
+
 </div>
 
-<br/>
-
-## 💡 What I'm Working On
-
-🔭 **Building:** [End-to-End Data Pipeline](https://github.com/Saideva0318/end-to-end-data-pipeline) — Enterprise-scale batch & streaming with Kafka + Spark  
-📚 **Learning:** Databricks, Delta Lake, Data Mesh architecture, LLM-augmented pipelines, AI/ML Engineering  
-🤝 **Open to:** Collaborating on open-source data engineering tools and real-estate analytics projects  
-💬 **Ask me about:** Real estate data automation, Airflow orchestration, Snowflake data modeling, AWS data pipelines  
-🌐 **2025–2026 Focus:** Integrating LLM/AI tooling into traditional data pipelines (LangChain, OpenAI API, vector databases)
-
-<br/>
+---
 
 ## 🎯 Experience Highlights
 
-- 📦 **Data Analyst** @ Laksan Technologies (1+ years) — Built Power BI dashboards, SQL analytics pipelines
-- 🧪 **Business Analyst** @ Johnson & Johnson — Public health analytics, data integration and reporting
-- 🏗️ **Property Portfolio Manager** — Managing 40+ properties across NJ, TX, and AR with custom analytics dashboards
-- 🎓 **Education:** UT Dallas — M.S. in Information Technology and Management
-
-<br/>
-
----
-
-## 💼 Portfolio Projects
-
-### 1. [Real Estate Analytics Pipeline](https://github.com/Saideva0318/real-estate-analytics-pipeline)
-**End-to-end ETL data pipeline** for property portfolio analysis  
-`Python` `AWS Glue` `S3` `Redshift` `Airflow` `Pandas`
-
-• Automated ETL workflow processing 50K+ property records  
-• Built dimensional data warehouse with Redshift  
-• Reduced manual reporting time by 85%
+- **Data Engineering:** Built production ETL pipelines processing millions of records using Spark, Kafka, Airflow
+- **Real Estate Analytics:** Managing 10+ properties across NJ, TX, and AR with custom data dashboards
+- **Cloud Platforms:** Hands-on with AWS (S3, Glue, Redshift), Azure (ADF, Synapse), Snowflake
+- **Healthcare Analytics:** Public health data integration and reporting at Johnson & Johnson
+- **Business Intelligence:** Power BI dashboards for property portfolio and operational KPIs
 
 ---
 
-### 2. [Property Market Streaming](https://github.com/Saideva0318/property-market-streaming)
-**Real-time streaming pipeline** with Kafka and Spark  
-`Apache Kafka` `Spark Streaming` `AWS Kinesis` `Python` `Scala`
+## 🏅 Certifications
 
-• Processes 10K+ property updates/second  
-• Real-time market trend analysis with <5s latency  
-• Identifies undervalued investment opportunities
-
----
-
-### 3. [Property Data Warehouse](https://github.com/Saideva0318/property-data-warehouse)
-**Cloud data warehouse** with Snowflake and dbt  
-`Snowflake` `dbt` `SQL` `AWS S3` `Dimensional Modeling`
-
-• Enterprise-grade ELT with 4-layer architecture  
-• dbt models for automated transformations  
-• Query performance: <5 seconds at P95
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| AWS Certified AI Practitioner | Amazon Web Services | ✅ Certified |
+| SAS Certified Advanced Programmer for SAS 9 | SAS Institute | ✅ Certified |
+| Salesforce Administrator | Salesforce | ✅ Certified |
 
 ---
-
-### 4. [Automated Financial Reporting](https://github.com/Saideva0318/automated-financial-reporting)
-**Python ETL system** with Power BI integration  
-`Python` `PostgreSQL` `Airflow` `Power BI` `REST APIs`
-
-• Automated monthly financial reports for 40+ properties  
-• Integrates 4+ data sources (Buildium, QuickBooks, Banks)  
-• 95% reduction in manual reporting effort
-
----
-
-### 5. [Property Data API](https://github.com/Saideva0318/property-data-api)
-**RESTful API service** with FastAPI and Redis  
-`FastAPI` `PostgreSQL` `Redis` `JWT` `Docker` `AWS ECS`
-
-• Production-ready API with 5K requests/second  
-• JWT authentication and rate limiting  
-• Auto-generated OpenAPI documentation
 
 <div align="center">
 
-### 💬 Let's Connect!
+### 🤝 Let's Connect!
+*Data Engineer | Edison, NJ | Open to Hybrid & Remote Opportunities*
 
-**Currently seeking full-time Data Engineer roles · Edison, NJ · NYC Metro Area | Open to Hybrid & Remote**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-deva-puttur/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saideva0318@gmail.com)
 
-<a href="https://www.linkedin.com/in/sai-deva-puttur/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-
-**Thanks for visiting! ⭐ Star my repos if you find them useful!**
 
 </div>
