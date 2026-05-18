@@ -115,7 +115,7 @@ CSV / API    Python + Docker   PostgreSQL          Plotly / Power BI       KPIs 
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/in/saideva](https://linkedin.com/in/saideva)
+- LinkedIn: [linkedin.com/in/saideva](https://www.linkedin.com/in/sai-deva-puttur/)
 - GitHub: [github.com/Saideva0318](https://github.com/Saideva0318)
 - Location: NYC Metro Area · Edison, NJ · Open to Hybrid & Remote
 
