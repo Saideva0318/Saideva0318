@@ -4,7 +4,7 @@
 
 ### Data Engineer | Analytics Professional | Python | SQL | PostgreSQL | Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/saideva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sai-deva-puttur/)
 [![GitHub](https://img.shields.io/badge/GitHub-Saideva0318-181717?logo=github)](https://github.com/Saideva0318)
 [![Location](https://img.shields.io/badge/Location-NYC%20Metro%20%7C%20NJ-blue)](#)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)](#)
