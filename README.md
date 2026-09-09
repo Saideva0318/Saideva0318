@@ -125,9 +125,9 @@ Enterprise-grade cloud data warehouse consolidating HRIS, ATS, ERP, timesheet, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saideva0318&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-pink.vercel.app/api?username=Saideva0318&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saideva0318&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=Saideva0318&layout=compact&hide_border=true&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saideva0318&theme=default&hide_border=true)
 
@@ -135,7 +135,7 @@ Enterprise-grade cloud data warehouse consolidating HRIS, ATS, ERP, timesheet, a
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Saideva0318&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8)
+![Trophies](https://github-profile-trophy-eight.vercel.app/?username=Saideva0318&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8)
 
 </div>
 
